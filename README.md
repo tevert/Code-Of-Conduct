@@ -20,7 +20,7 @@ As someone who is part of this Slack, you agree that:
 * We refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs.
 We avoid using offensive topics as a form of humor.
 
-We are an open community - this means that all humans are welcome, and we trust each other. In order to foster that trust and respect, we do _not_ welcome anonymous accounts, corporate accounts, solicitation spam, etc. 
+We are an open community - this means that all humans are welcome, and we trust each other. In order to foster that trust and respect, we do _not_ welcome anonymous accounts. Corporate accounts and solictors are welcome, so long as they are respectful of the community and limit themselves to approriate channels and levels of participation.
 
 We actively work towards:
 
